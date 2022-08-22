@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+BWS (BlazeOS Web Services) is an open source alternative to AWS (Amazon Web Services) with better privacy in mind, along with self-hosting, and mass-hosting support.
